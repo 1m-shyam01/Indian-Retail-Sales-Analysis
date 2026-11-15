@@ -2,15 +2,6 @@
 
 > A complete analysis of three years (2023 to 2025) of Indian retail sales data: data cleaning, exploratory data analysis (EDA), visualizations, an interactive Power BI dashboard, business insights and recommendations.
 
-## Connect With Me
-
-| | |
-|---|---|
-| **LinkedIn** | [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile) |
-| **GitHub** | [github.com/your-username](https://github.com/your-username) |
-| **Portfolio** | [your-portfolio-link.com](https://your-portfolio-link.com) |
-
----
 
 ## Project Overview
 

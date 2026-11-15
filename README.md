@@ -55,17 +55,13 @@ The business does not know which **products, regions, months and payment methods
 - The average order line is about 5,177, but the median is only 1,900, so a few very big orders pull the average up.
 - A small number of unusual values were found (wrong ages, very high discounts, zero quantity, repeated orders), each under 3% of the rows.
 
-![Correlation Heatmap](images/correlation_heatmap.png)
-![Box Plots](images/box_plots.png)
-
 ## Visualizations
 
 | | |
 |---|---|
-| ![Revenue by Category](images/revenue_by_category.png) | ![Monthly Revenue Trend](images/monthly_revenue_trend.png) |
-| ![Payment Method Share](images/payment_method_share.png) | ![Revenue by Region](images/revenue_by_region.png) |
-| ![Top Products](images/top_products.png) | ![Order Status](images/order_status.png) |
-
+| ![Revenue by Category](images/revenue_by_category.png) |
+|![Revenue by Region](images/revenue_by_region.png) |
+| ![Top Products](images/top_products.png) |
 ## Power BI Dashboard
 
 **Sales Analysis Dashboard** with 6 KPI cards, 6 visuals and 3 slicers (Region, Age Group, Category).

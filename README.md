@@ -130,4 +130,4 @@ indian-retail-sales-analysis/
 ## Author
 
 **Rahul**
-[LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](https://www.linkedin.com/in/shyam-singh-190b7a2a6) | [GitHub](https://github.com/1m-shyam01) | [Portfolio](https://shyam-analyst.vercel.app)
